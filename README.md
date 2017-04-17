@@ -14,7 +14,7 @@ iTunesPicker is for iPhone only, requires iOS 7 or above and use **AppCornerKit 
 
 ![Alt text](preview/4.0/1.png "Preview songs") 
 
-####Publish on App Store
+#### Publish on App Store
 iTunesPicker is not published on the App Store by appcorner.it, **you're free to publish this version "as is" on App Store** or with your changes (please quote this repository in the app description).
 
 The app "as is" could not pass the approval rules of App Store:
@@ -23,7 +23,7 @@ The app "as is" could not pass the approval rules of App Store:
 - rule 2.25 you should remove apps ranking.
 
 
-####Configuration
+#### Configuration
 To enable remote configuration (to hide/show items types in app) set on iTunesPicker-Prefix.pch
 ```objc
 #define REMOTE_CONFIGURATION_ENABLE 1
